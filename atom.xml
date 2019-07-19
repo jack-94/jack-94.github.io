@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://jack-94.github.io/</id>
+    <id>C:/Users/JACK-94/Documents/Gridea/output</id>
     <title>Gridea</title>
-    <updated>2019-07-19T03:49:31.095Z</updated>
+    <updated>2019-07-19T03:52:41.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://jack-94.github.io/"/>
-    <link rel="self" href="https://jack-94.github.io//atom.xml"/>
+    <link rel="alternate" href="C:/Users/JACK-94/Documents/Gridea/output"/>
+    <link rel="self" href="C:/Users/JACK-94/Documents/Gridea/output/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://jack-94.github.io//images/avatar.png</logo>
-    <icon>https://jack-94.github.io//favicon.ico</icon>
+    <logo>C:/Users/JACK-94/Documents/Gridea/output/images/avatar.png</logo>
+    <icon>C:/Users/JACK-94/Documents/Gridea/output/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[你好，曹冉同学]]></title>
-        <id>https://jack-94.github.io//post/hello-gridea</id>
-        <link href="https://jack-94.github.io//post/hello-gridea">
+        <id>C:/Users/JACK-94/Documents/Gridea/output/post/hello-gridea/index.html</id>
+        <link href="C:/Users/JACK-94/Documents/Gridea/output/post/hello-gridea/index.html">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！</p>
