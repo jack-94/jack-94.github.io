@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jack-94.github.io/</id>
     <title>Pig</title>
-    <updated>2019-07-19T08:07:11.404Z</updated>
+    <updated>2019-07-30T09:28:16.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jack-94.github.io/"/>
     <link rel="self" href="https://jack-94.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://jack-94.github.io//images/avatar.png</logo>
     <icon>https://jack-94.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Pig</rights>
+    <entry>
+        <title type="html"><![CDATA[vue-awsome-swiper使用,并且用到parallax视差效果]]></title>
+        <id>https://jack-94.github.io//post/vue-awsome-swiper-shi-yong-bing-qie-yong-dao-parallax-shi-chai-xiao-guo</id>
+        <link href="https://jack-94.github.io//post/vue-awsome-swiper-shi-yong-bing-qie-yong-dao-parallax-shi-chai-xiao-guo">
+        </link>
+        <updated>2019-07-30T09:22:45.000Z</updated>
+        <content type="html"><![CDATA[<p>vue-awsome-swiper官方文档写的很粗糙，没有提到parallax用法，一开始直接把parallax的div插入到swiper组件中，没有生效，查看swiper官网示例发现需要把parallax的div放到和slide同级才可用，于是去查找node_modules里的vue-awsome-swiper源码，发现了熟悉的插槽，最后改成这样<div slot="parallax-bg" data-swiper-parallax-x="-20%" class="parallax-bg"></div>，大功告成！！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是标题]]></title>
         <id>https://jack-94.github.io//post/zhe-shi-biao-ti</id>
